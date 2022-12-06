@@ -1,4 +1,5 @@
 ﻿using CoreBox.Domain;
+using FindFood.Domain.Categorias;
 
 namespace FindFood.Domain.Estabelecimentos
 {
@@ -11,6 +12,8 @@ namespace FindFood.Domain.Estabelecimentos
         public string Complemento { get; private set; }
         public string Bairro { get; private set; }
         public string Cidade { get; private set; }
+        public string Latitude { get; private set; }
+        public string Longitude { get; private set; }
         public IEnumerable<Categoria> Categorias { get; set; }
     }
 }
