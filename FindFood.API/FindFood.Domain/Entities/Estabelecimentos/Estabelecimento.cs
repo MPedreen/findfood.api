@@ -1,7 +1,7 @@
 ﻿using CoreBox.Domain;
-using FindFood.Domain.Categorias;
+using FindFood.Models.Models.Categorias;
 
-namespace FindFood.Domain.Estabelecimentos
+namespace FindFood.Models.Models.Estabelecimentos
 {
     public partial class Estabelecimento : Entity<Estabelecimento>
     {

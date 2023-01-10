@@ -1,6 +1,6 @@
 ﻿using CoreBox.Domain;
 
-namespace FindFood.Domain.Categorias
+namespace FindFood.Models.Models.Categorias
 {
     public partial class Categoria : Entity<Categoria>
     {
