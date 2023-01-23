@@ -10,4 +10,8 @@
     <PackageReference Include="CoreBox" Version="4.13.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DTOs\" />
+  </ItemGroup>
+
 </Project>
