@@ -3,7 +3,7 @@ using FindFood.Models.Models.Categorias;
 
 namespace FindFood.Models.Models.Estabelecimentos
 {
-    public partial class Estabelecimento : Entity<Estabelecimento>
+    public class Estabelecimento : Entity<Estabelecimento>
     {
         public string Nome { get; private set; }
         public string Logradouro { get; private set; }

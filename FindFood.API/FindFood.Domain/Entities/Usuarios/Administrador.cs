@@ -2,7 +2,7 @@
 
 namespace FindFood.Domain.Usuarios
 {
-    public partial class Usuario : Entity<Usuario>
+    public class Administrador : Entity<Administrador>
     {
 
     }

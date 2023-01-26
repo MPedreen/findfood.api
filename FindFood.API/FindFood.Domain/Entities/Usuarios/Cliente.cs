@@ -2,7 +2,7 @@
 
 namespace FindFood.Domain.Usuarios
 {
-    public partial class Usuario : Entity<Usuario>
+    public class Cliente : Entity<Cliente>
     {
         public string Cpf { get; private set; }
         public string Genero { get; private set; }
