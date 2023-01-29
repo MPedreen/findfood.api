@@ -7,9 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2467B3EE-2C6
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindFood.API", "FindFood.API\FindFood.API.csproj", "{36080BD1-48D5-4D7B-AEB2-5C2CFF7FC538}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindFood.Models", "FindFood.Domain\FindFood.Models.csproj", "{C962F822-CAAC-46EF-81E8-F2DCC2151EDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindFood.Models", "FindFood.Models\FindFood.Models.csproj", "{C962F822-CAAC-46EF-81E8-F2DCC2151EDE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindFood.Infra", "FindFood.Infra.Repositories\FindFood.Infra.csproj", "{28064C5D-727F-4C1A-BB97-2792F097F0D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindFood.Infra", "FindFood.Infra\FindFood.Infra.csproj", "{28064C5D-727F-4C1A-BB97-2792F097F0D2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindFood.Services", "FindFood.Services\FindFood.Services.csproj", "{E34BF076-00F3-4356-B5A1-4BD5852DD324}"
 EndProject
